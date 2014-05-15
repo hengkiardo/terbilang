@@ -1,5 +1,5 @@
 {
-  "name": "bahasa-to-words",
+  "name": "terbilang",
   "version": "0.0.1",
   "description": "JavaScript library to convert a number to its word representation in Bahasa Indonesia language",
   "main": "index.js",
