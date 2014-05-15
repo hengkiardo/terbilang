@@ -1,0 +1,27 @@
+{
+  "name": "bahasa-to-words",
+  "version": "0.0.1",
+  "description": "JavaScript library to convert a number to its word representation in Bahasa Indonesia language",
+  "main": "index.js",
+  "scripts": {
+    "test": "phantomjs test/vendor/runner.js test/index.html?noglobals=true"
+  },
+  "author": "Kuba Kuźma",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cowbell/polish-to-words.git"
+  },
+  "keywords": [
+    "polish",
+    "number",
+    "words"
+  ],
+  "bugs": {
+    "url": "https://github.com/cowbell/polish-to-words/issues"
+  },
+  "homepage": "https://github.com/cowbell/polish-to-words",
+  "devDependencies": {
+    "phantomjs": "~1.9.2-6"
+  }
+}
