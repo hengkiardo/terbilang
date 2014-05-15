@@ -1,0 +1,34 @@
+{
+  "name": "terbilang",
+  "main": "index.js",
+  "version": "0.0.2",
+  "homepage": "https://github.com/aredo/terbilang",
+  "authors": [{
+        "name": "Hengki Sihombing",
+        "email": "hengki.sihombing@gmail.com",
+        "url": "http://hengkiardo.com"
+    }],
+  "description": "JavaScript library to convert a number to its word representation in Bahasa Indonesia language",
+  "keywords": [
+    "bahasa indonesia",
+    "bahasa"
+    "indonesia",
+    "rupiah",
+    "currency",
+    "convert",
+    "number",
+    "terbilang",
+    "indonesia",
+    "word",
+    "IDR"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "LICENSE",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

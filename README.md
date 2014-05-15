@@ -6,10 +6,15 @@ JavaScript library to convert a number to its word representation in Bahasa Indo
 
 ## Install
 
+Download [manually](https://github.com/aredo/terbilang/releases) or with a package-manager.
+
 ``` js
-npm install terbilang
+$ npm install terbilang
 ```
 
+```
+$ bower install --save terbilang
+```
 
 ## Usage
 ``` js
