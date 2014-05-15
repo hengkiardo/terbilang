@@ -58,11 +58,11 @@
 
   var MILIONS = {
       one: " juta "
-    , few: " jutaan "
-    , many: " jutaan "
+    , few: " juta "
+    , many: " juta "
   };
-  var POSITIVE_OVERFLOW = "terlalu besar";
-  var NEGATIVE_OVERFLOW = "terlalu kecil";
+  var POSITIVE_OVERFLOW = "terlalu besar / not implemented yet";
+  var NEGATIVE_OVERFLOW = "terlalu kecil / not implemented yet";
 
   function process0999(digits) {
     var result = "";

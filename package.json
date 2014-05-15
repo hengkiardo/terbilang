@@ -6,11 +6,11 @@
   "scripts": {
     "test": "phantomjs test/vendor/runner.js test/index.html?noglobals=true"
   },
-  "author": "Kuba Kuźma",
+  "author": "Hengki Sihombing",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/cowbell/polish-to-words.git"
+    "url": "git@github.com:aredo/terbilang.git"
   },
   "keywords": [
     "polish",
@@ -18,10 +18,10 @@
     "words"
   ],
   "bugs": {
-    "url": "https://github.com/cowbell/polish-to-words/issues"
+    "url": "https://github.com/aredo/terbilang/issues"
   },
-  "homepage": "https://github.com/cowbell/polish-to-words",
+  "homepage": "https://github.com/aredo/terbilang/issues",
   "devDependencies": {
-    "phantomjs": "~1.9.2-6"
+    "phantomjs": "^1.9.7-5"
   }
 }
