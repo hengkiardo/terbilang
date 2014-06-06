@@ -1,5 +1,6 @@
 terbilang
 ===============
+[![npm](https://img.shields.io/npm/v/terbilang.svg)](https://www.npmjs.org/package/terbilang)
 
 JavaScript library to convert a number to its word representation in Bahasa Indonesia language
 
